@@ -13,8 +13,11 @@ A modern and feature-rich Todo List application built with **React**, supporting
 
 ## 📸 Screenshots
 
-![Dark Mode](dark-mode.png)
-![Light Mode](light-mode.png)
+<p align="center">
+  <img src="dark-mode.png" alt="Dark Mode" width="400" height="350" />
+  <br /><br />
+  <img src="light-mode.png" alt="Light Mode" width="400" height="350" />
+</p>
 
 
 ---
