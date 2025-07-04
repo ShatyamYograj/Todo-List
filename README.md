@@ -53,9 +53,7 @@ todo-list-react/
 ├── README.md # Project overview
 └── package.json # Project metadata
 
-yaml
-Copy
-Edit
+
 
 ---
 
