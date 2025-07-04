@@ -65,37 +65,31 @@ Edit
    ```bash
    git clone https://github.com/ShatyamYograj/todo-list-react.git
    cd todo-list-react
-Install dependencies
+  2.Install dependencies
+  
+      npm install
+  
+  3.Start the development server
+  
+      npm run dev
+  
+  4.Open in browser: http://localhost:5173 (or similar)
 
-bash
-Copy
-Edit
-npm install
-Start the development server
+## ⚙️ Build for Production
+    npm run build
+## 📌 Important Notes
+- Double-click a task to enable editing.
 
-bash
-Copy
-Edit
-npm run dev
-Open in browser: http://localhost:5173 (or similar)
+- Due dates are optional. If set, they are displayed below the task.
 
-⚙️ Build for Production
-bash
-Copy
-Edit
-npm run build
-📌 Important Notes
-Double-click a task to enable editing.
+- Tasks due today are highlighted in red for visibility.
 
-Due dates are optional. If set, they are displayed below the task.
+- Theme preference is not saved yet; you can add this feature using localStorage if needed.
 
-Tasks due today are highlighted in red for visibility.
-
-Theme preference is not saved yet; you can add this feature using localStorage if needed.
-
-📃 License
+## 📃 License
 This project is licensed under the MIT License.
+</br>
 
-🙋‍♂️ Author
+## 🙋‍♂️ Author
 Shatyam Yograj
 🌐 [LinkedIn](https://www.linkedin.com/in/shatyam-yograj-54588a259/) | 📫 shatyamyograj11@gmail.com]
